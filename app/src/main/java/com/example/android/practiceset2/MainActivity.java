@@ -47,4 +47,5 @@ public class MainActivity extends AppCompatActivity {
         TextView t = (TextView) findViewById(R.id.display_text_view_3);
         t.setText(text);
     }
+
 }
